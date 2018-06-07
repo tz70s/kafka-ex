@@ -1,2 +1,2 @@
-# kafka-taste
-Practices with Kafka.
+# kafka-ex
+Experiment environment with Kafka.
